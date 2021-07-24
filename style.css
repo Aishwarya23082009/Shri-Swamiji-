@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+#welcome {
+    background: linear-gradient(#f7bd52 0%, #bffbff 100%);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+#swamiji1 {
+    width: 550px;
+    height: 700px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+#shank cakra {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: auto;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+p {
+    text-decoration-color: coral;
+}
+
+#somya {
+    width: 500px;
+    height: 700px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+#swamiji4 {
+    width: 500px;
+    height: 800px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+.line {
+    background-color: coral;
+    height: 7px;
+    width: 300px;
+    margin: 25px auto;
+}
+
+#som {
+    text-align: right;
+    font-family: cursive;
+}
